@@ -1,2 +1,15 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿namespace BasicCore
+{
+    public class Program
+    {
+        static void Main(string[] args)
+        {
+            //FlipCoin.Coin();
+            //factor.main();
+            //LeapYear.LEAP();
+            //Powerof2.Power();
+            HarmonicNumber.harmonic();
+            //Console.ReadLine();
+        }
+    }
+}

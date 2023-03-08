@@ -5,10 +5,10 @@
         static void Main(string[] args)
         {
             //FlipCoin.Coin();
-            //factor.main();
+            Factors.main();
             //LeapYear.LEAP();
             //Powerof2.Power();
-            HarmonicNumber.harmonic();
+            //HarmonicNumber.harmonic();
             //Console.ReadLine();
         }
     }

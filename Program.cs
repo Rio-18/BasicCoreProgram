@@ -5,11 +5,13 @@
         static void Main(string[] args)
         {
             //FlipCoin.Coin();
-            Factors.main();
+            //Factors.main();
             //LeapYear.LEAP();
             //Powerof2.Power();
+            VowelndConsonant.CheckTheCharacter();
             //HarmonicNumber.harmonic();
             //Console.ReadLine();
+
         }
     }
 }

@@ -8,8 +8,9 @@
             //Factors.main();
             //LeapYear.LEAP();
             //Powerof2.Power();
-            VowelndConsonant.CheckTheCharacter();
+            //VowelndConsonant.CheckTheCharacter();
             //HarmonicNumber.harmonic();
+            Swap.SwapingTheNumber();
             //Console.ReadLine();
 
         }
